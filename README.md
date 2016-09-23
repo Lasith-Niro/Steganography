@@ -3,7 +3,6 @@
 
 
 ## Prerequisite
-* Linux / Windows OS
 * PIL (Python Image Library)
 * Python 2.7
 * PIP
